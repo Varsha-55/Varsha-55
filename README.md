@@ -7,6 +7,10 @@
 - **Databases**: MySQL, MongoDB, Firebase
 - **Platforms**: Git, GitHub, Arduinoq
 
-I'm constantly learning and improving my skills, whether it's through personal projects, contributing to open-source, or experimenting with new frameworks and languages. if you’d like to collaborate, feel free to reach out
+##project
+project 1 :IOT project - anti sleep alram
+project 2 : android web development-  party managment system( currently working).
+
+I'm constantly learning and improving my skills, whether it's through personal projects, contributing to open-source, or experimenting with new frameworks and languages. if you’d like to collaborate, feel free to reach out.
 
 ---
